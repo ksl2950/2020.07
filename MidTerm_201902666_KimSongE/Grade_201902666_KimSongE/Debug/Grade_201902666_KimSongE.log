@@ -1,0 +1,18 @@
+﻿  Grade_201902666_KimSongE.c
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(72,47): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(72,47): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(74,46): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(74,46): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(76,48): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(76,48): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(92,15): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(124,12): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(189,12): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(189,12): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(189,12): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(189,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(191,9): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(229,38): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(237,36): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\LG\source\repos\Grade_201902666_KimSongE\Grade_201902666_KimSongE.c(245,39): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  Grade_201902666_KimSongE.vcxproj -> C:\Users\LG\source\repos\MidTerm_201902666_KimSongE\Debug\Grade_201902666_KimSongE.exe
