@@ -1,0 +1,3 @@
+﻿  ex14_201902666_KimSongE.c
+C:\Users\LG\source\repos\ex14_201902666_KimSongE\ex14_201902666_KimSongE.c(13,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ex14_201902666_KimSongE.vcxproj -> C:\Users\LG\source\repos\Midterm2_201902666_KimSongE\Debug\ex14_201902666_KimSongE.exe

@@ -1,0 +1,7 @@
+﻿  ex10_201902666_KimSongE.c
+C:\Users\LG\source\repos\Midterm2_201902666_KimSongE\ex10_201902666_KimSongE.c(45,30): warning C4047: '-': 'char *'의 간접 참조 수준이 'char (*)[30]'과(와) 다릅니다.
+C:\Users\LG\source\repos\Midterm2_201902666_KimSongE\ex10_201902666_KimSongE.c(46,9): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\LG\source\repos\Midterm2_201902666_KimSongE\ex10_201902666_KimSongE.c(69,15): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\LG\source\repos\Midterm2_201902666_KimSongE\ex10_201902666_KimSongE.c(66,1): warning C4133: '초기화 중': 'const int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\LG\source\repos\Midterm2_201902666_KimSongE\ex10_201902666_KimSongE.c(67,1): warning C4133: '초기화 중': 'const int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+  Midterm2_201902666_KimSongE.vcxproj -> C:\Users\LG\source\repos\Midterm2_201902666_KimSongE\Debug\ex10_201902666_KimSongE.exe
