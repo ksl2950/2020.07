@@ -1,0 +1,5 @@
+﻿  ex14_201902666_KimSongE.c
+C:\Users\LG\source\repos\ex14_201902666_KimSongE\ex14_201902666_KimSongE.c(14,12): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\LG\source\repos\ex14_201902666_KimSongE\ex14_201902666_KimSongE.c(17,12): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\LG\source\repos\ex14_201902666_KimSongE\ex14_201902666_KimSongE.c(21,14): warning C4013: 'isalpha'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ex14_201902666_KimSongE.vcxproj -> C:\Users\LG\source\repos\lec08_201902666_KimSongE\Debug\ex14_201902666_KimSongE.exe

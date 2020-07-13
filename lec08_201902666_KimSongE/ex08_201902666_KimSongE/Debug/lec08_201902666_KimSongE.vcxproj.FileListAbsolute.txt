@@ -1,0 +1,2 @@
+C:\Users\LG\source\repos\lec08_201902666_KimSongE\Debug\ex08_201902666_KimSongE.exe
+C:\Users\LG\source\repos\lec08_201902666_KimSongE\Debug\ex08_201902666_KimSongE.pdb
